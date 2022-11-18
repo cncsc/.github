@@ -6,7 +6,7 @@ The Cloud-Native Cybersecurity Collective (CNCSC) was founded to share security 
 technology stacks in the open source space. It is our goal to make these technologies more accessible by making secure
 and compliant configuration simpler.
 
-## Founding members
+## Founding Members
 
 The following organizations comprise the list of founding members. Each have agreed to contribute an applicable portion
 of their intellectual property to the Collective and actively participate in maintaining these projects.
@@ -17,7 +17,7 @@ of their intellectual property to the Collective and actively participate in mai
 - 2ndWatch ([www.2ndwatch.com](https://www.2ndwatch.com))
 - Quantum Security ([www.quantum.security](https://www.quantum.security))
 
-## Joining the collective
+## Joining the Collective
 
 If you would like to contribute your project to the Collective, reach out to [info@cncsc.io](mailto:info@cncsc.io) and
 provide a link to and summary of your project. Note that your project must be licensed under either an MIT or Apache 2
